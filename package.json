@@ -1,0 +1,22 @@
+{
+  "name": "easychatjs-client-sdk",
+  "version": "1.0.0",
+  "description": "easychatjs client sdk to build web chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youngdo212/easychatjs-client-sdk.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/youngdo212/easychatjs-client-sdk/issues"
+  },
+  "homepage": "https://github.com/youngdo212/easychatjs-client-sdk#readme"
+}
